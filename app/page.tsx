@@ -406,7 +406,7 @@ export default function ProposalPage() {
                   My Dearest
                 </h1>
                 <h2 className="text-2xl md:text-4xl font-light text-pink-100 drop-shadow-md font-caveat">
-                  Jaan ✨
+                  Pushpo ✨
                 </h2>
               </div>
 
