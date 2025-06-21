@@ -486,7 +486,7 @@ export default function ProposalPage() {
                     {/* Cute ribbon effect */}
                     <div className="relative inline-block">
                       <h3 className="text-2xl font-bold text-pink-800 mb-2 font-caveat relative z-10 px-4 py-2">
-                        To my dearest Jaan,
+                        To my Pushpo,
                       </h3>
                       <div className="absolute inset-0 bg-pink-100 rounded-2xl transform -rotate-1 shadow-sm"></div>
                     </div>
