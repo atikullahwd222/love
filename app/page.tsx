@@ -499,7 +499,7 @@ export default function ProposalPage() {
                     
                     <div className="bg-white/60 rounded-2xl p-4 shadow-sm border border-pink-100">
                       <p className="text-base font-medium">
-                        My every heartbeat speaks of your name, dear. "Your smile lights up my worst days, your laughter is my favorite song, and take the love you've given me, and turn it into something beautiful."
+                        My every heartbeat speaks of your name, dear. "Your smile lights up my worst days, your laughter is my favorite song."
                       </p>
                     </div>
                     
@@ -516,7 +516,7 @@ export default function ProposalPage() {
                   <div className="mt-8 text-right relative">
                     <div className="bg-gradient-to-r from-pink-100 to-rose-100 rounded-2xl p-4 shadow-sm border border-pink-200">
                       <p className="text-lg font-semibold text-pink-800 font-caveat">
-                        Forever and always yours,
+                        Forever and always yours Pushpo,
                       </p>
                       <div className="mt-2 flex justify-end space-x-1">
                         <span className="text-2xl bounce-cute">💕</span>
